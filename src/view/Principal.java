@@ -28,9 +28,9 @@ public class Principal {
 		Barra b7 = new Barra ();
 		b7.volume = 80;
 		Barra b8 = new Barra ();
-		b8.volume = 145;
+		b8.volume = 14;
 		Barra b9 = new Barra ();
-		b8.volume = 199;
+		b9.volume = 199;
 		Barra b10 = new Barra ();
 		b10.volume = 221.6;
 		Barra b11 = new Barra ();
